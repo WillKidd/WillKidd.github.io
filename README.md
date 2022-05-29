@@ -8,7 +8,7 @@
 </head>
 <body>
   <nav>
-		<a href="/">home</a>
+    <a href="/">home</a>
     <a href="/til"></a>
     <a href="/projects"></a>
     <a href="/tools"></a>
